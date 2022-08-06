@@ -30,7 +30,7 @@ global.ownername= "Ballsstore☕︎" //nama kalian
 global.myweb ="https://Wa.me/6285732107960" //bebas asal jan hapus
 global.youtube = "https://youtube.com/shorts/7ySw5JMgNIo?feature=share" //bebas asal jan hapus
 global.myweb2 = "https://youtube.com/shorts/7ySw5JMgNIo?feature=share" //bebas
-global.email = "sadboysabi366@gmail.com" //bebas
+global.email = "doumaut91@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285732107960'] //premium user
